@@ -1,0 +1,13 @@
+```
+Q: How do I track my order?
+A: You can track your order by going to the "My Orders" section in your account.
+
+Q: What is your refund policy?
+A: We provide a 30-day refund policy from the date of purchase.
+
+Q: Do you sell Bluetooth earbuds?
+A: Yes, we offer a wide range of Bluetooth earbuds from top brands.
+
+Q: How do I cancel my order?
+A: Visit the order page and click on 'Cancel Order' before it is shipped.
+```
